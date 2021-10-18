@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/flood-map-page/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/flood-map-page/static/js/main.4d9174d4.chunk.js",
+    "main.js.map": "/flood-map-page/static/js/main.4d9174d4.chunk.js.map",
+    "runtime-main.js": "/flood-map-page/static/js/runtime-main.5d6a0fa9.js",
+    "runtime-main.js.map": "/flood-map-page/static/js/runtime-main.5d6a0fa9.js.map",
+    "static/css/2.b4ebbe46.chunk.css": "/flood-map-page/static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.3877175a.chunk.js": "/flood-map-page/static/js/2.3877175a.chunk.js",
+    "static/js/2.3877175a.chunk.js.map": "/flood-map-page/static/js/2.3877175a.chunk.js.map",
+    "static/js/3.3747d768.chunk.js": "/flood-map-page/static/js/3.3747d768.chunk.js",
+    "static/js/3.3747d768.chunk.js.map": "/flood-map-page/static/js/3.3747d768.chunk.js.map",
+    "index.html": "/flood-map-page/index.html",
+    "static/css/2.b4ebbe46.chunk.css.map": "/flood-map-page/static/css/2.b4ebbe46.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/flood-map-page/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3877175a.chunk.js.LICENSE.txt": "/flood-map-page/static/js/2.3877175a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/flood-map-page/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d6a0fa9.js",
+    "static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.3877175a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.4d9174d4.chunk.js"
+  ]
+}
